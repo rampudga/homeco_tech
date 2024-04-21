@@ -33,3 +33,5 @@ Looking to the future, Homeco.io aims to expand its offerings beyond core shoppi
 
 **Code Explanation**:  This React Native app uses React Navigation for screen navigation and features a tab bar at the bottom with tabs for categories like Sofas, Tables, Clocks, Cart, and Logout. The main component, MainApp, manages the current selected tab and the visibility of a sliding menu on the right side. The sliding menu can be toggled using a menu button and displays content based on the selected tab. Additionally, the app uses animations for the sliding menu, including scaling and translating effects. Custom fonts are loaded using the useFonts hook from Expo. The app's root component, App, sets up the navigation stack with two screens: Login and MainApp. Overall, the app provides a user-friendly interface for browsing different product categories and navigating between screens with smooth animations.
 
+**Languages used**: JavaScript
+**Platform used**: Visual Studio
