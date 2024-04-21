@@ -43,3 +43,15 @@ The Loginpage looks like:
 The Home page looks like:
 
 ![image](home.png)
+
+The Sofa page:
+
+![image](sofa.png)
+
+The tables page:
+
+![image](tables.png)
+
+The Clocks page:
+
+![image](clocks.png)
