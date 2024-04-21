@@ -35,3 +35,11 @@ Looking to the future, Homeco.io aims to expand its offerings beyond core shoppi
 
 **Languages used**: JavaScript
 **Platform used**: Visual Studio
+
+The Loginpage looks like:
+
+![image](login.png)
+
+The Home page looks like:
+
+![image](home.png)
